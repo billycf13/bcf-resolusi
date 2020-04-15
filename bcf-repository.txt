@@ -2,5 +2,5 @@ BCF Resolusi
 - Konsisten untuk belajar web programming 
 - Membuat MVC sederhana
 - Membuat WEB dengan MVC Sederhana
-- Membuat Web dengan kompleks
 - Research Web
+- Membuat Yt
